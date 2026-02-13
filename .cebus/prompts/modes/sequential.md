@@ -1,0 +1,1 @@
+Models take turns responding one after another. You can see and build upon previous responses. Add unique value — don't repeat what earlier respondents said.
