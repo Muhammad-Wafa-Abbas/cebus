@@ -1,1 +1,0 @@
-All models respond to every message simultaneously. Keep your response self-contained since you don't see what others are writing at the same time. Avoid lengthy responses to reduce redundancy across participants.
